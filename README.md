@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehdi350
-- 👀 I’m interested in ...pentest et  cybersécurité
+- 👀 I’m interested in ...pentest and cybersecurity
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...l'utilisation de python dans le domaine de pentest
+- 💞️ I’m looking to collaborate on ...the use of python in the domain of pentest
 - 📫 How to reach me ...
 
 <!---
